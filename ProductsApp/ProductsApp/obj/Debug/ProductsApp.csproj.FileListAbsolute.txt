@@ -1,0 +1,17 @@
+F:\SCTD\Qtr5\DWD278\ProductsApp\ProductsApp\bin\ProductsApp.dll.config
+F:\SCTD\Qtr5\DWD278\ProductsApp\ProductsApp\bin\ProductsApp.dll
+F:\SCTD\Qtr5\DWD278\ProductsApp\ProductsApp\bin\ProductsApp.pdb
+F:\SCTD\Qtr5\DWD278\ProductsApp\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\SCTD\Qtr5\DWD278\ProductsApp\ProductsApp\bin\Newtonsoft.Json.dll
+F:\SCTD\Qtr5\DWD278\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.dll
+F:\SCTD\Qtr5\DWD278\ProductsApp\ProductsApp\bin\System.Web.Http.dll
+F:\SCTD\Qtr5\DWD278\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.dll
+F:\SCTD\Qtr5\DWD278\ProductsApp\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SCTD\Qtr5\DWD278\ProductsApp\ProductsApp\bin\Newtonsoft.Json.xml
+F:\SCTD\Qtr5\DWD278\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.xml
+F:\SCTD\Qtr5\DWD278\ProductsApp\ProductsApp\bin\System.Web.Http.xml
+F:\SCTD\Qtr5\DWD278\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.xml
+F:\SCTD\Qtr5\DWD278\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+F:\SCTD\Qtr5\DWD278\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csproj.CoreCompileInputs.cache
+F:\SCTD\Qtr5\DWD278\ProductsApp\ProductsApp\obj\Debug\ProductsApp.dll
+F:\SCTD\Qtr5\DWD278\ProductsApp\ProductsApp\obj\Debug\ProductsApp.pdb
