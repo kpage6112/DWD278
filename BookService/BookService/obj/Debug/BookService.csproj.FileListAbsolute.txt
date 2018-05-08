@@ -1,3 +1,9 @@
+F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\System.IO.Compression.dll
+F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\VBCSCompiler.exe
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\ApplicationInsights.config
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\BookService.dll.config
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\BookService.dll
@@ -9,13 +15,9 @@ F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\csi.exe
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\csi.exe.config
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\csi.rsp
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\Microsoft.CodeAnalysis.dll
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\Microsoft.CSharp.Core.targets
-F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\Microsoft.VisualBasic.Core.targets
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\Microsoft.Win32.Primitives.dll
@@ -25,7 +27,6 @@ F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\System.Console.dll
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\System.Diagnostics.Process.dll
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\System.Diagnostics.StackTrace.dll
-F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\System.IO.Compression.dll
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\System.IO.FileSystem.dll
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\System.IO.FileSystem.Primitives.dll
@@ -48,9 +49,10 @@ F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\System.Xml.XPath.XDocumen
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\vbc.exe
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\vbc.exe.config
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\vbc.rsp
-F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\VBCSCompiler.exe
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\roslyn\VBCSCompiler.exe.config
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\Antlr3.Runtime.dll
+F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\EntityFramework.dll
+F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\EntityFramework.SqlServer.dll
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\Microsoft.AI.Agent.Intercept.dll
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\Microsoft.AI.DependencyCollector.dll
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -72,6 +74,8 @@ F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\System.Web.WebPages.Deployment.d
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\System.Web.WebPages.dll
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\System.Web.WebPages.Razor.dll
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\WebGrease.dll
+F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\EntityFramework.xml
+F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\EntityFramework.SqlServer.xml
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\Newtonsoft.Json.xml
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\System.Net.Http.Formatting.xml
@@ -91,6 +95,8 @@ F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\Microsoft.AI.ServerTelemetryChan
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\Microsoft.AI.WindowsServer.xml
 F:\SCTD\Qtr5\DWD278\BookService\BookService\bin\Microsoft.AI.Web.xml
 F:\SCTD\Qtr5\DWD278\BookService\BookService\obj\Debug\BookService.csprojResolveAssemblyReference.cache
+F:\SCTD\Qtr5\DWD278\BookService\BookService\obj\Debug\BookService.Migrations.Initial.resources
+F:\SCTD\Qtr5\DWD278\BookService\BookService\obj\Debug\BookService.csproj.GenerateResource.cache
 F:\SCTD\Qtr5\DWD278\BookService\BookService\obj\Debug\BookService.csproj.CoreCompileInputs.cache
 F:\SCTD\Qtr5\DWD278\BookService\BookService\obj\Debug\BookService.csproj.CopyComplete
 F:\SCTD\Qtr5\DWD278\BookService\BookService\obj\Debug\BookService.dll
